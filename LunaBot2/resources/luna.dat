@@ -1,0 +1,25 @@
+%todo
+Eat cheese.
+
+%announcementChannel
+576955148606373908
+
+%prefix
+*
+
+%afkmembers
+null
+null
+
+%liveAlert
+true
+
+%deletedelay
+5
+
+%followAlert
+true
+
+%customGreetings
+167445584142139394:Message 1;Message 2;Message 3;Et Cetera
+
